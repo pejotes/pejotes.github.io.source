@@ -1,7 +1,6 @@
 module.exports = {
     title: 'Vue-deploy Example',
     theme: "@vuepress/theme-blog",
-    base: "/pejotes.github.io/",
     plugins: [
     ],
     themeConfig: {
